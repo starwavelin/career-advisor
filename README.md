@@ -1,3 +1,5 @@
-# My Awesome Book
+# 算厨小咸的职场战略手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is the career strategy for Lin, Xian to handle his career. 
+
+Primary Language: 中文, English
