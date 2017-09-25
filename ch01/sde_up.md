@@ -9,6 +9,11 @@
 * 业务相关的代码，至少 Code Base 一遍
 * 不满足公司内部 Materials, 可以 online search 看看
 人际交流方面：
+* 尽快熟悉身边同事
+* 每日与同事打招呼
+* 积极地问问题
+** 什么是有水平的问题？
+*** Google上有没有？没有的肯定是有水平的问题。且对方大概率知道
 
 
 
@@ -18,13 +23,13 @@
 
 
 
-## Task List
-- [] 0-3个月
+#### Task List
+- [x] 0-3个月
 - [] 3-6个月
 - [] 6-12个月
 - [] 12-24个月
 
 
 
-** 鸣谢资料：
+#### 鸣谢资料：
 1. [BitTiger 2017-18年度北美求职白皮书 Beta版](https://drive.google.com/drive/folders/0B0ZYVTfFi02yV1p4Sk1ocUJqTUU)
