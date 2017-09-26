@@ -35,7 +35,19 @@ If you were fired for performance reasons, you should mention any extenuating (a
 
 If you were fired for any reason, you should make a point of  highlighting lessons learned from the experience. The goal here is to assure the interviewer that it was an isolated incident and that you would not be a risky hire.
 
+还是可以来看个案例：
+
+> After some management changes, it became clear that the new department director had new expectations for the role that didn’t really mesh with my strengths. Ultimately, she decided to bring in someone from her previous organization who had more sales experience.
+
+> The experience taught me that my real talent is in customer service  and I know I would be a major asset in a role like this one, which focuses on improving the customer experience. Would you like me to tell you more about my experience in that area?
+
 ## 假如因表现缘由解聘了怎么办？
+
+可以做好三件事：
+
+1. Negotiate Severance (n. 分离；断绝) Package
+2. Unemployment Insurance
+3. Job Search
 
 资料： [fired? What you shall do?](https://biginterview.com/blog/2011/08/fired-how-to-explain.html)
 
