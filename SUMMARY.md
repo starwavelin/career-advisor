@@ -5,4 +5,5 @@
 * [Chapter 02: 面试 Abstraction](ch02.md)
 	* [回答为什么离开上一份工作](ch02/why_left.md)
 * [Chapter 03: 人际关系](ch03.md)
+* [Chapter 04: 宏观战略](ch04.md)
 
